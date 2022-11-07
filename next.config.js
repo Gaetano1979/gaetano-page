@@ -5,7 +5,7 @@ const nextConfig = {
   experimental: {
     appDir: true
   },
-  distDir:'./root'
+  distDir:'./docs'
 }
 
 module.exports = nextConfig
