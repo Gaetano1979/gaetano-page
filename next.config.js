@@ -4,8 +4,7 @@ const nextConfig = {
   swcMinify: true,
   experimental: {
     appDir: true
-  },
-  distDir:'./docs'
+  }
 }
 
 module.exports = nextConfig
